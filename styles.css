@@ -1,0 +1,17 @@
+#stinky{
+    color: blueviolet;
+    font-size: 50px;
+}
+#stinky2{
+    color: orange;
+    font-size: 50px;
+}
+body{
+    background-color: cyan;
+}
+.green{
+    color: green;
+}
+.tiny{
+    font-size: 1px;
+}
